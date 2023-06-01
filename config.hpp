@@ -15,8 +15,8 @@
 #define ITER_CHEF 15000   // 选择厨师时的迭代次数
 #define ITER_RECIPE 15000 // 对于每一组厨师，选择菜谱时的迭代次数
 
-#define AVOID_CHEF_1 ture
-#define AVOID_CHEF_2 ture
+#define AVOID_CHEF_1 true
+#define AVOID_CHEF_2 true
 #define AVOID_CHEF_3 false // 计算时不考虑三火厨师
 
 // ************************************************** //
